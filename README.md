@@ -10,6 +10,8 @@ You can easily change the script to run every second by running setInterval(getS
 Example usage below. Go to the page and click the Timer link. On this website we are using it to run every second, but the script in this repository will run in milliseconds. You can also include the days, just comment the days code in the getShowTime() function.
 
 https://brainbank.cc/jamie/words/words-in-the-news-december-2018
+
+
 Will display as :
 
 ![image](https://user-images.githubusercontent.com/123397357/236668037-0d0410a6-9e71-4212-8e16-878888148cd9.png)
