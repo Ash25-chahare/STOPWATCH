@@ -19,3 +19,6 @@ Will display as :
 00:00:00:000 or hours:minutes:seconds:milliseconds
 
 Included in the HTML is a link to the Google Font being used as well as Font Awesome, which is used to display the Play and Pause buttons.
+
+
+"C:\Users\ayush\Videos\Captures\Vanilla JS Stopwatch - Javascript Stopwatch and 1 more page - Personal - Microsoft​ Edge 2023-05-07 14-47-50.mp4"
